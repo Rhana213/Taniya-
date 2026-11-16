@@ -19,7 +19,7 @@ export default function Page() {
         Retour les rappelle à votre place, au bon moment.
       </p>
       <a
-        href="#"
+        href="/commencer"
         style={{
           marginTop: 28,
           padding: "16px 20px",
